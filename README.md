@@ -14,5 +14,3 @@ To know more about the header files go to [CppReference - Header Files](https://
 
 **system()** : It is used to execute a system command by passing the command as argument to this function.(eg: ***system("cls")***).
 
-
-<img src="C:\Users\sc\Desktop\Programs\C++\PracticeProblems\timerShot.png" />
